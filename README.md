@@ -4,7 +4,7 @@ This repo contains the different files produced as part of the course project fo
 
 ## README.md
 
-This file, which presents an overview of the project and its files.
+The present file, which presents an overview of the project and its files.
 
 ## run_analysis.R
 
